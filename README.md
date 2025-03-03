@@ -19,7 +19,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 1 - What is Functional Programming?**
 
-- 📂 [Lesson](lessons/chapter1/lesson.md) | 🖥️ [Code](code/chapter1/example.py)
+- 📂 [Lesson](lessons/chapter1/lesson1.md) | 🖥️ [Code](code/chapter1/main.py)
 
 ### **Chapter 2 - First Class Functions**
 
