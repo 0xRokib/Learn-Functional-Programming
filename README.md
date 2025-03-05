@@ -23,7 +23,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 2 - First Class Functions**
 
-- 📂 [Lesson](lessons/chapter2/lesson2.md) | 🖥️ [Code](code/chapter2/main.py)
+- 📂 [Lesson](lessons/chapter2/lesson1.md) | 🖥️ [Code](code/chapter2/main.py)
 
 ### **Chapter 3 - Pure Functions**
 
