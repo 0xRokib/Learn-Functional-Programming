@@ -27,7 +27,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 3 - Pure Functions**
 
-- 📂 [Lesson](lessons/chapter3/lesson.md) | 🖥️ [Code](code/chapter3/example.py)
+- 📂 [Lesson](lessons/chapter3/lesson1.md) | 🖥️ [Code](code/chapter3/main.py)
 
 ### **Chapter 4 - Recursion**
 
