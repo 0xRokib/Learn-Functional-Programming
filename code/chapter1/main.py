@@ -1,46 +1,58 @@
-# Mutable vs. Immutable Data
+# =========================================================
+# 1. Mutable vs. Immutable Data
+# =========================================================
 
-# Lists Are Mutable:
+# 1.1 Lists Are Mutable
 ages = [16, 21, 30]  # A list of ages
 ages.append(80)  # Adding a new element to the list (modifies the original list)
-# Result: [16, 21, 30, 80]
+print(ages)  # Output: [16, 21, 30, 80]
 
 
-# Tuples Are Immutable:
+# 1.2 Tuples Are Immutable
 ages = (16, 21, 30)  # A tuple of ages
 more_ages = (80,)  # A new single-element tuple (comma is required)
 all_ages = ages + more_ages  # Creating a new tuple (original tuple remains unchanged)
-# Result: (16, 21, 30, 80)
+print(all_ages)  # Output: (16, 21, 30, 80)
 
 
-# Imperative vs. Declarative Code
-# Imperative Styling (Python with Tkinter):
-from tkinter import *  # Import Tkinter module=
-master = Tk()  # Create a main window
+# =========================================================
+# 2. Imperative vs. Declarative Code
+# =========================================================
+
+# 2.1 Imperative Styling (Python with Tkinter)
+from tkinter import *  # Import Tkinter module
+
+# Create a main window
+master = Tk()  
 master.geometry("200x100")  # Set window size
-button = Button(master, text="Submit", fg="red").pack()  # Create a red button
-master.mainloop()  # Start the GUI event loop
+
+# Create a red button and pack it into the window
+button = Button(master, text="Submit", fg="red").pack()  
+
+# Start the GUI event loop
+master.mainloop()  
 
 
-# Imperative vs. Functional Approach for Averaging Numbers
+# =========================================================
+# 3. Imperative vs. Functional Approach for Averaging Numbers
+# =========================================================
 
-# Imperative Approach:
+# 3.1 Imperative Approach
 def get_average(nums):
+    """Calculates the average of a list of numbers using an imperative approach."""
     total = 0  # Initialize total sum
     for num in nums:  # Iterate over the list
         total += num  # Accumulate sum
     return total / len(nums)  # Return average
 
 # Example usage:
-# get_average([10, 20, 30]) -> 20.0
+print(get_average([10, 20, 30]))  # Output: 20.0
 
 
-# Functional Approach:
+# 3.2 Functional Approach
 def get_average(nums):
+    """Calculates the average of a list of numbers using a functional approach."""
     return sum(nums) / len(nums)  # Use built-in sum function for a declarative approach
 
 # Example usage:
-# get_average([10, 20, 30]) -> 20.0
-
-
-
+print(get_average([10, 20, 30]))  # Output: 20.0
