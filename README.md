@@ -31,7 +31,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 4 - Recursion**
 
-- 📂 [Lesson](lessons/chapter4/lesson.md) | 🖥️ [Code](code/chapter4/example.py)
+- 📂 [Lesson](lessons/chapter4/lesson1.md) | 🖥️ [Code](code/chapter4/main.py)
 
 ### **Chapter 5 - Function Transformations**
 
