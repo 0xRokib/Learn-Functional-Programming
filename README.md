@@ -35,7 +35,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 5 - Function Transformations**
 
-- 📂 [Lesson](lessons/chapter5/lesson.md) | 🖥️ [Code](code/chapter5/example.py)
+- 📂 [Lesson](lessons/chapter5/lesson1.md) | 🖥️ [Code](code/chapter5/main.py)
 
 ### **Chapter 6 - Closures**
 
