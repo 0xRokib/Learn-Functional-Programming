@@ -39,7 +39,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 6 - Closures**
 
-- 📂 [Lesson](lessons/chapter6/lesson.md) | 🖥️ [Code](code/chapter6/example.py)
+- 📂 [Lesson](lessons/chapter6/lesson1.md) | 🖥️ [Code](code/chapter6/main.py)
 
 ### **Chapter 7 - Currying**
 
