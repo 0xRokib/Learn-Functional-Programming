@@ -43,7 +43,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 7 - Currying**
 
-- 📂 [Lesson](lessons/chapter7/lesson.md) | 🖥️ [Code](code/chapter7/example.py)
+- 📂 [Lesson](lessons/chapter7/lesson1.md) | 🖥️ [Code](code/chapter7/main.py)
 
 ### **Chapter 8 - Decorators**
 
