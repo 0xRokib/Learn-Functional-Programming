@@ -51,7 +51,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 9 - Sum Types**
 
-- 📂 [Lesson](lessons/chapter9/lesson.md) | 🖥️ [Code](code/chapter9/example.py)
+- 📂 [Lesson](lessons/chapter9/lesson1.md) | 🖥️ [Code](code/chapter9/main.py)
 
 ## 🚀 Projects
 
