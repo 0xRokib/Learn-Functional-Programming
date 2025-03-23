@@ -47,7 +47,7 @@ This repository documents my Functional Programming learning in an organized, pr
 
 ### **Chapter 8 - Decorators**
 
-- 📂 [Lesson](lessons/chapter8/lesson.md) | 🖥️ [Code](code/chapter8/example.py)
+- 📂 [Lesson](lessons/chapter8/lesson1.md) | 🖥️ [Code](code/chapter8/main.py)
 
 ### **Chapter 9 - Sum Types**
 
